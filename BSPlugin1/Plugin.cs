@@ -51,9 +51,9 @@ namespace BSPlugin1
         }
 
 
-        public void OnApp
+        
 
-        [OnExit]
+        
         public void OnApplicationQuit()
         {
             Log.Debug("OnApplicationQuit");
